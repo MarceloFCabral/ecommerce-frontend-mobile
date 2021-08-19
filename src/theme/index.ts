@@ -1,0 +1,9 @@
+export const PRIMARY_COLOR = '#6d2ce6';
+export const SECONDARY_COLOR = '#9067db';
+export const BG_COLOR = '#e0d5f5';
+export const BUTTON_COLOR = '#4e79e6';
+export const BUTTON_RIPPLE = '#b3c8ff';
+export const TEXT_PRIMARY_COLOR = 'black';
+export const TEXT_SECONDARY_COLOR = 'grey';
+export const WHITE = '#ffffff';
+export const GREY = 'grey';
